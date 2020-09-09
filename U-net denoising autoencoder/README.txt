@@ -1,4 +1,5 @@
 #ReadME
 
 Codes for construct autoencoder based on U-net architecture
-- source : 
+
+- early stopping was used in validation sets
