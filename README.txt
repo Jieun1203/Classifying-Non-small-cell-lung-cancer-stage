@@ -6,6 +6,6 @@ Codes were written in jupyter notebookes and pytorch was used for deep learning 
 
 1. CT data preprocessing
 2. U-net autoencoder
-3. classification deep learning networks
+3. classification models
 
 Above contents are described in Classifying non small cell lung cancer stage repository
