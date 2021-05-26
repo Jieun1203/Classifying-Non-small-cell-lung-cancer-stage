@@ -2,7 +2,7 @@
 
 Codes for classifying non small cell lung cancer overall pathological stage.
 
-Codes were written in jupyter notebookes and pytorch was used for deep learning module.
+Codes were written in python module and pytorch was used for deep learning.
 
 1. CT data preprocessing
 2. U-net autoencoder
