@@ -17,6 +17,8 @@ python3 CT_normalization.py --data_root /DATA/data_cancer/NSCLC_Radiogenomics
 </pre>
 #please change the data_root according to datasets
 
+Since clinical information of the datasets are given in different setting, stages should be extracted in handed-manner.
+
 In the study, 6 datasets were used.
 1. NSCLC-Radiogenomics
 2. NSCLC-Radiomic-Genomics
