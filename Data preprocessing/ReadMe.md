@@ -19,6 +19,10 @@ python3 CT_normalization.py --data_root /DATA/data_cancer/NSCLC_Radiogenomics
 
 Since clinical information of the datasets are given in different setting, stages should be extracted in handed-manner.
 
+In the study, according to patients number, resampled and normalized ct images are combined into one numpy file.
+Also in same order, stage information was made in a single numpy file.
+
+
 In the study, 6 datasets were used.
 1. NSCLC-Radiogenomics
 2. NSCLC-Radiomic-Genomics
