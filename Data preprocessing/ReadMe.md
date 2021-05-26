@@ -5,7 +5,12 @@ For fair comparison, isotropic resamplig is needed when CT images were obtained 
 
 CT images were .gz file format.
 
-
+<pre>
+<code>
+#how to use
+python3 CT_normalization.py --data_root /DATA/data_cancer/NSCLC_Radiogenomics
+</code>
+</pre>
 
 
 
