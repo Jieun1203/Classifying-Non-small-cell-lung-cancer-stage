@@ -15,7 +15,7 @@ Lastly, numpy files are normalized and saved in 'numpy' folder.
 python3 CT_normalization.py --data_root /DATA/data_cancer/NSCLC_Radiogenomics
 </code>
 </pre>
-
+#please change the data_root according to datasets
 
 In the study, 6 datasets were used.
 1. NSCLC-Radiogenomics
