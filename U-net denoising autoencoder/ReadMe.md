@@ -13,6 +13,7 @@ After the training,
 4. stages
 5. latent variables are saved.
 6. weights of autoencoder  
+
 will be saved at save_root folder
 
 <pre>
