@@ -10,6 +10,6 @@ Models will be training during the number of epoch as set by user.
 <pre>
 <code>
 #how to use
-python Encoder_training.py --data_root /nsclc/save_root --save_root /nsclc/final_save_root
+python classificaiton_training.py --data_root /nsclc/save_root --save_root /nsclc/final_save_root
 </code>
 </pre>
