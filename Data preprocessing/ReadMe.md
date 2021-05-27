@@ -5,13 +5,9 @@ Codes for CT data preprocessing
 For fair comparison, isotropic resamplig is needed when CT images were obtained from various CT modalities.
 
 CT images were .gz file format.
-
 CT images were cropped into 128x128x3 pathes centering around the most biggest ROI slice.
-
 Firstly, resampled CT images and ROI images were saved in the folder 'resampled' in data_root folder.
-
 Second, CT images were cropped into 128x128x3 pathes centering around the most biggest ROI slice and saved in 'numpy' folder.
-
 Lastly, numpy files are normalized and saved in 'numpy' folder.
 
 
