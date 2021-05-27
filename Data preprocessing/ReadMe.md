@@ -8,13 +8,14 @@ For fair comparison, isotropic resamplig is needed when CT images were obtained 
 
 CT images were .gz file format.
 
-
 CT images were cropped into 128x128x3 pathes centering around the most biggest ROI slice.
 
-
 Firstly, resampled CT images and ROI images were saved in the folder 'resampled' in data_root folder.
+
 Second, CT images were cropped into 128x128x3 pathes centering around the most biggest ROI slice and saved in 'numpy' folder.
+
 Lastly, numpy files are normalized and saved in 'numpy' folder.
+
 
 <pre>
 <code>
@@ -27,7 +28,9 @@ python3 CT_normalization.py --data_root /DATA/data_cancer/NSCLC_Radiogenomics
 Since clinical information of the datasets are given in different setting, stages should be extracted in handed-manner.
 
 In the study, according to patients number, resampled and normalized ct images are combined into one numpy file.
+
 Also in same order, stage information was made in a single numpy file.
+
 
 
 In the study, 6 datasets were used.
