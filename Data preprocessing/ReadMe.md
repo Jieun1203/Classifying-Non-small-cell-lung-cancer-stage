@@ -2,9 +2,7 @@
 
 Codes for CT data preprocessing
 
-
 For fair comparison, isotropic resamplig is needed when CT images were obtained from various CT modalities.
-
 
 CT images were .gz file format.
 
