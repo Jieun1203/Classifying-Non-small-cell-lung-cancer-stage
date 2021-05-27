@@ -12,7 +12,7 @@ After the training,
 3. reconstructed CT images
 4. stages
 5. latent variables are saved.
-6. weights of autoencoder
+6. weights of autoencoder  
 will be saved at save_root folder
 
 <pre>
